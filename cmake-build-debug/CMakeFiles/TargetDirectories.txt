@@ -1,0 +1,3 @@
+C:/Users/Vitinho/Desktop/projeto-3.2/cmake-build-debug/CMakeFiles/SimuladorEventos.dir
+C:/Users/Vitinho/Desktop/projeto-3.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vitinho/Desktop/projeto-3.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
